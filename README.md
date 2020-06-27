@@ -1,2 +1,2 @@
-# coffeebot
+# Coffee Bot
 Coffee Bot
