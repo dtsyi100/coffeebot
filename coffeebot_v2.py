@@ -1,3 +1,4 @@
+#This version uses orders = [] as a parameter.
 #Main Coffee Bot function
 orders = []
 def coffee_bot():
