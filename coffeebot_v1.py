@@ -1,3 +1,4 @@
+#This version doesn't uses orders = [] as a parameter.
 #Global Variables
 orders = []
 
